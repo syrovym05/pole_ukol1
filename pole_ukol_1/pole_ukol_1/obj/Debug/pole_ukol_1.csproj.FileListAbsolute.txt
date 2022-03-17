@@ -1,0 +1,13 @@
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\bin\Debug\pole_ukol_1.exe.config
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\bin\Debug\pole_ukol_1.exe
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\bin\Debug\pole_ukol_1.pdb
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.Form1.resources
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.exe
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.pdb
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.Form2.resources
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\pole_ukol_1\pole_ukol_1\obj\Debug\pole_ukol_1.Form3.resources
